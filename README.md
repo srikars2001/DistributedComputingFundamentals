@@ -1,4 +1,4 @@
-# dockerhub repo - https://cloud.docker.com/u/srikars2001/repository/list
+# dockerhub repo -  https://cloud.docker.com/repository/docker/srikars2001/nginx
 
 # TEAM NUMBER - 8
 # GROUP - SRIKAR.S , BHARAT , KUSUMA , NUPUR
