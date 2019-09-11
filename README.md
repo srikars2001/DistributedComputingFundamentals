@@ -1,11 +1,4 @@
-# dockerhub repo -  https://cloud.docker.com/repository/docker/srikars2001/nginx
-
-# TEAM NUMBER - 8
-# GROUP - SRIKAR.S , BHARAT , KUSUMA , NUPUR
-
-SOURCES REFFERED - W3SCHOOLS FOR HTML
-
-
+ 
 
 
 
@@ -31,6 +24,13 @@ index and index2 are sample HTML files to be used for the assignments in weeks 2
 Week 2 will involve just creating a similar HTML file and logging into a container.    
 The final result can include much more than index and index2;however, the more important part of this week's assignment is logging into container, so keep the focus on that.  
 
+dockerhub repo -  https://cloud.docker.com/repository/docker/srikars2001/nginx
+
+TEAM NUMBER - 8
+GROUP - SRIKAR.S , BHARAT , KUSUMA , NUPUR
+
+
+
 **Submission deadline:  
 Sunday,8th September, 11:55 PM.**
 
@@ -54,6 +54,8 @@ Also, change docker_script.sh to inlude the exact commands used by your team.
 
 
 
+
+SOURCES REFFERED - W3SCHOOLS FOR HTML
 
 
 
